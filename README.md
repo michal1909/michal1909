@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Michał Fiedor</h1>
 <h3 align="center">A passionate IT student :mortar_board: from Poland :poland:</h3>
 <img align="right" width="300" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
